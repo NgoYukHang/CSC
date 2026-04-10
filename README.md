@@ -1,6 +1,6 @@
 # CSC3100: PROBLEM SOLVING AND PROGRAMMING CONCEPTS
 
-## Compile java
+## Compile java source code
 1. Compile source code with `javac Example.java`
 2. Run with `java Example`
 
