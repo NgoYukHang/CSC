@@ -1,15 +1,15 @@
 # CSC3100: PROBLEM SOLVING AND PROGRAMMING CONCEPTS
 
-## Compile java
+## Compile java source code
 1. Compile source code with `javac Example.java`
 2. Run with `java Example`
 
 ## Using git
 1. Add current directory to staging area with `git add .`
-2. Add commit with `git commit -m "descript the change"`
+2. Add commit with `git commit -m "describe the change"`
 3. Check staging area with `git status`
 4. Add repo with `git remote add origin git@github.com:NgoYukHang/CSC.git`
-5. Push change with `git push -u origin master`
+5. Push change to master branch with `git push -u origin master`
 
 ## Lab 1
 1. [HelloWorld.java](https://github.com/NgoYukHang/CSC/blob/master/lab1/HelloWorld.java) prints Hello World!.
