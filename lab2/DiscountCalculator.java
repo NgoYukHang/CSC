@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class DiscountCalculator {
-
 	public static void main(String[] args) {
 		// Welcome message
 		System.out.println("This is a program to find sale price of an item after a percentage discount.");
@@ -12,6 +11,7 @@ public class DiscountCalculator {
 		System.out.println("Enter original price of the item (RM): ");
 		float originalPrice = scanner.nextFloat();
 		
+		// Retype input if percentage discount is not between 0 and 100%
 		float discountPercentage;
 		while(true) {
 			System.out.println("Enter the percentage discount (%): ");
@@ -23,6 +23,7 @@ public class DiscountCalculator {
 				break;
 			}
 		}
+		scanner.close();
 		
 		// Calculate and output the result
 		double discountedPrice = originalPrice * (100 - discountPercentage) / 100;
@@ -32,5 +33,4 @@ public class DiscountCalculator {
 				String.format("%.2f",discountedPrice)
 				);
 	}
-
 }

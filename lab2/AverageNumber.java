@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class AverageNumber {
-
 	public static void main(String[] args) {	
 		// Welcome message
 		System.out.println("This is a program to find average of three number.");
@@ -14,10 +13,10 @@ public class AverageNumber {
 		double secondNum = scanner.nextDouble();
 		System.out.println("Enter third number: ");
 		double thirdNum = scanner.nextDouble();
+		scanner.close();
 		
 		// Calculate and output the result
 		double average = (firstNum + secondNum + thirdNum)/3;
 		System.out.println("Average of " + firstNum + ", " + secondNum + ", " + thirdNum + " is " + average);
 	}
-
 }
