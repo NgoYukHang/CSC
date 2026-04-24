@@ -29,3 +29,11 @@
 1. [RightTriangle.java](https://github.com/NgoYukHang/CSC/blob/master/lab3/RightTriangle.java) computes the perimeter and area of a right triangle with user-provided length sides of a and b.
 2. [Rectangle.java](https://github.com/NgoYukHang/CSC/blob/master/lab3/Rectangle.java) computes the perimeter and area of the rectangle with specific width and height.
 3. [lab3.pdf](https://github.com/NgoYukHang/CSC/blob/master/lab3/lab3.pdf) contains the Problem Analysis Chart (PAC), Input Process Output (IPO), Flowchart, Pseaudocode and the screenshot of Java code of the [RightTriangle.java](https://github.com/NgoYukHang/CSC/blob/master/lab3/RightTriangle.java).
+
+## Lab 4
+1. [PackageQuantityDiscountCalculator.java](https://github.com/NgoYukHang/CSC/blob/master/lab4/PackageQuantityDiscountCalculator.java) computes the price of packages after a certain discount which based on quantity purchased.
+2. [MenuInRestaurant.java](https://github.com/NgoYukHang/CSC/blob/master/lab4/MenuInRestaurant.java) displays the menu in a restaurant.
+3. [GradeCalculator.java](https://github.com/NgoYukHang/CSC/blob/master/lab4/GradeCalculator.java) finds the grade of a student after inputting marks for each tests.
+4. [VendorDiscountCalculator.java](https://github.com/NgoYukHang/CSC/blob/master/lab4/VendorDiscountCalculator.java) computes the price after buying from the vendor which give discount based on purchase and quantity.
+5. [DynamicTieredBillingSystem.java](https://github.com/NgoYukHang/CSC/blob/master/lab4/DynamicTieredBillingSystem.java) provides a interface for calculating the user's monthly electricty bill based on their consumption, user category and peak hours.
+6. [lab4.pdf](https://github.com/NgoYukHang/CSC/blob/master/lab4/lab4.pdf) contains the Problem Analysis Chart (PAC), Input Process Output (IPO), Flowchart, Pseaudocode and the screenshot of Java code of the all the [lab4](https://github.com/NgoYukHang/CSC/tree/master/lab4) tasks.
