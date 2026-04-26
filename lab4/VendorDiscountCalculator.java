@@ -14,6 +14,7 @@ public class VendorDiscountCalculator{
 		// Print welcome message
 		System.out.println("Welcome to vendor discount calculator!");
 		System.out.println("Please input all the items bought one by one.");
+		System.out.println("Enter 0 on price if you have done inputted all the prices.");
 		System.out.println("");
 
 		// Get list of items from user

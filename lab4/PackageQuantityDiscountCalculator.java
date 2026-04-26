@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class PackageQuantityDiscountCalculator {
 	public static void main(String[] args){
 		// Get quantity of package purchased from user
-		System.out.println("Please enter the number of number of packages purchased (Each package is RM49.50): ");
+		System.out.println("Please enter the number of packages purchased (Each package is RM49.50): ");
 		Scanner scanner = new Scanner(System.in);
 		int quantity = scanner.nextInt();
 
