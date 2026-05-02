@@ -12,8 +12,8 @@ public class WeightUnitConverter {
 		scanner.close();
 		
 		// Calculate and output the result
-		final double convertionFactorFromPoundsToKilograms = 0.45359237;
-		double weightInKilograms = weightInPounds * convertionFactorFromPoundsToKilograms;
+		final double FACTOR_FROM_POUNDS_TO_KILOGRAMS = 0.45359237;
+		double weightInKilograms = weightInPounds * FACTOR_FROM_POUNDS_TO_KILOGRAMS;
 		System.out.println("Weight of parcel of " + weightInPounds + " lbs is " + String.format("%.6f",weightInKilograms) + " kg");
 	}
 }

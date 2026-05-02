@@ -22,8 +22,8 @@ public class PackageQuantityDiscountCalculator {
 		}
 
 		// Calculate purchase after discount
-		final float priceOfSinglePackage = 49.50f;
-		float purchaseAfterDiscount = quantity * priceOfSinglePackage * (100 - discount) / 100;
+		final float PRICE_OF_SINGLE_PACKAGE = 49.50f;
+		float purchaseAfterDiscount = quantity * PRICE_OF_SINGLE_PACKAGE * (100 - discount) / 100;
 
 		// Print output
 		System.out.println("Number of packages purchased : " + quantity);
