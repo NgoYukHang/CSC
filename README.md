@@ -37,3 +37,8 @@
 4. [VendorDiscountCalculator.java](https://github.com/NgoYukHang/CSC/blob/master/lab4/VendorDiscountCalculator.java) computes the price after buying from the vendor which give discount based on purchase and quantity.
 5. [DynamicTieredBillingSystem.java](https://github.com/NgoYukHang/CSC/blob/master/lab4/DynamicTieredBillingSystem.java) provides a interface for calculating the user's monthly electricty bill based on their consumption, user category and peak hours.
 6. [lab4.pdf](https://github.com/NgoYukHang/CSC/blob/master/lab4/lab4.pdf) contains the Problem Analysis Chart (PAC), Input Process Output (IPO), Flowchart, Pseaudocode and the screenshot of Java code of the all the [lab4](https://github.com/NgoYukHang/CSC/tree/master/lab4) tasks.
+
+## Lab5
+1. [Lab5Part1](https://github.com/NgoYukHang/CSC/blob/master/lab5/Lab5Part1.java) manipulates strings provided from users, especially replace the second string contains in the first string with "Selamat Datang".
+2. [Lab5Part2](https://github.com/NgoYukHang/CSC/blob/master/lab5/Lab5Part2.java) checks validity of the password provided and offers ability to add more string at the behind of the password.
+3. [lab5.pdf](https://github.com/NgoYukHang/CSC/blob/master/lab5/lab5.pdf) contains the Problem Analysis Chart (PAC), Input Process Output (IPO), Flowchart, Pseaudocode and the screenshot of Java code of the all the lab5 tasks.
