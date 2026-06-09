@@ -39,6 +39,13 @@
 6. [lab4.pdf](https://github.com/NgoYukHang/CSC/blob/master/lab4/lab4.pdf) contains the Problem Analysis Chart (PAC), Input Process Output (IPO), Flowchart, Pseaudocode and the screenshot of Java code of the all the [lab4](https://github.com/NgoYukHang/CSC/tree/master/lab4) tasks.
 
 ## Lab5
-1. [Lab5Part1](https://github.com/NgoYukHang/CSC/blob/master/lab5/Lab5Part1.java) manipulates strings provided from users, especially replace the second string contains in the first string with "Selamat Datang".
-2. [Lab5Part2](https://github.com/NgoYukHang/CSC/blob/master/lab5/Lab5Part2.java) checks validity of the password provided and offers ability to add more string at the behind of the password.
+1. [Lab5Part1.java](https://github.com/NgoYukHang/CSC/blob/master/lab5/Lab5Part1.java) manipulates strings provided from users, especially replace the second string contains in the first string with "Selamat Datang".
+2. [Lab5Part2.java](https://github.com/NgoYukHang/CSC/blob/master/lab5/Lab5Part2.java) checks validity of the password provided and offers ability to add more string at the behind of the password.
 3. [lab5.pdf](https://github.com/NgoYukHang/CSC/blob/master/lab5/lab5.pdf) contains the Problem Analysis Chart (PAC), Input Process Output (IPO), Flowchart, Pseaudocode and the screenshot of Java code of the all the lab5 tasks.
+
+## Lab6 
+1. [MailOrderHouse.java](https://github.com/NgoYukHang/CSC/blob/master/lab6/MailOrderHouse.java) calculates total retail valut of all product sold.
+2. [ZooNegaraFeeCalculator.java](https://github.com/NgoYukHang/CSC/blob/master/lab6/ZooNegaraFeeCalculator.java) calculates the total ticket fee based on the user nationality, age group and number of ticket.
+3. [HealthCalculator.java](https://github.com/NgoYukHang/CSC/blob/master/lab6/HealthCalculator.java) calculates the BMI and determines the user's risk of health diseases and diabetes.
+4. [MileageClaim.java](https://github.com/NgoYukHang/CSC/blob/master/lab6/MileageClaim.java) calculates the travel claim of the staff by providing the distance travelled.
+5. [lab6.pdf](https://github.com/NgoYukHang/CSC/blob/master/lab6/lab6.pdf) contains the Problem Analysis Chart (PAC), Input Process Output (IPO), Flowchart, Pseaudocode and the screenshot of Java code of the all the lab6 tasks.
